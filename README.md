@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eonwabudo
-- 👀 I’m interested in Software Engineering and Artificial Intelligence
+- 👀 Interested in Software Engineering and Artificial Intelligence
 - 🌱 I’m currently learning Python and Machine Learning
-- Previous Experience are in Fintech, Banking, Automotive Engineering
+- Previous Experience are in Fintech, Banking, and Automotive Engineering Industries
 - 💞️ I’m looking to collaborate on just about anything interesting and worthwhile
 - 📫 How to reach me: emmanuel.onyekachi.nwabudo@cariad.technology
 
